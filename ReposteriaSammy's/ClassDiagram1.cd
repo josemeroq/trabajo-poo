@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ReposteriaSammy_s.Usuario">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAgAAAEAEAAQgAAAABAAIAAAAAAggAEAAI=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReposteriaSammy_s.DetalledeFactura">
+    <Position X="10" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAAAAAAAAAQAAEAAQQQAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>DetalledeFactura.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Factura" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ReposteriaSammy_s.Factura">
+    <Position X="14" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="ReposteriaSammy_s.Usuario" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="13.75" Y="2.75" />
+        <Point X="14.75" Y="2.75" />
+        <Point X="14.75" Y="4.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAQAQAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Factura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReposteriaSammy_s.Menú">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAEAABAAAAAAA=</HashCode>
+      <FileName>Menú.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReposteriaSammy_s.Helados">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIEAAAAcAIAAAAAAAAAQAAAAAAEAAAAAAAABEAA=</HashCode>
+      <FileName>Helados.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReposteriaSammy_s.Pasteles">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIEAAAAcAIAAAAAAAAAQAAAAAAEAAAAAAAABEAA=</HashCode>
+      <FileName>Pasteles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

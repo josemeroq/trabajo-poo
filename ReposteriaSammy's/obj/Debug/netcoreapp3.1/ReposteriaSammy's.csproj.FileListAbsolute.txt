@@ -1,0 +1,14 @@
+C:\Users\CompuStore\source\repos\ReposteriaSammy's\bin\Debug\netcoreapp3.1\ReposteriaSammy's.exe
+C:\Users\CompuStore\source\repos\ReposteriaSammy's\bin\Debug\netcoreapp3.1\ReposteriaSammy's.deps.json
+C:\Users\CompuStore\source\repos\ReposteriaSammy's\bin\Debug\netcoreapp3.1\ReposteriaSammy's.runtimeconfig.json
+C:\Users\CompuStore\source\repos\ReposteriaSammy's\bin\Debug\netcoreapp3.1\ReposteriaSammy's.runtimeconfig.dev.json
+C:\Users\CompuStore\source\repos\ReposteriaSammy's\bin\Debug\netcoreapp3.1\ReposteriaSammy's.dll
+C:\Users\CompuStore\source\repos\ReposteriaSammy's\bin\Debug\netcoreapp3.1\ReposteriaSammy's.pdb
+C:\Users\CompuStore\source\repos\ReposteriaSammy's\obj\Debug\netcoreapp3.1\ReposteriaSammy's.csproj.AssemblyReference.cache
+C:\Users\CompuStore\source\repos\ReposteriaSammy's\obj\Debug\netcoreapp3.1\ReposteriaSammy's.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\source\repos\ReposteriaSammy's\obj\Debug\netcoreapp3.1\ReposteriaSammy's.AssemblyInfoInputs.cache
+C:\Users\CompuStore\source\repos\ReposteriaSammy's\obj\Debug\netcoreapp3.1\ReposteriaSammy's.AssemblyInfo.cs
+C:\Users\CompuStore\source\repos\ReposteriaSammy's\obj\Debug\netcoreapp3.1\ReposteriaSammy's.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\source\repos\ReposteriaSammy's\obj\Debug\netcoreapp3.1\ReposteriaSammy's.dll
+C:\Users\CompuStore\source\repos\ReposteriaSammy's\obj\Debug\netcoreapp3.1\ReposteriaSammy's.pdb
+C:\Users\CompuStore\source\repos\ReposteriaSammy's\obj\Debug\netcoreapp3.1\ReposteriaSammy's.genruntimeconfig.cache
